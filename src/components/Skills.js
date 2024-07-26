@@ -12,7 +12,8 @@ function Skills() {
             <li>JavaScript</li>
             <li>HTML</li>
             <li>CSS</li>
-            <li>Java</li>
+            <li>BootStrap</li>
+            <li>C++</li>
             <li>Python</li>
           </ul>
         </div>
@@ -20,7 +21,7 @@ function Skills() {
           <h3>Frameworks & Libraries</h3>
           <ul>
             <li>React</li>
-            <li>Vue.js</li>
+            <li>Flask</li>
           </ul>
         </div>
         <div className="skills-category">
